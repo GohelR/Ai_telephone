@@ -1,0 +1,6 @@
+{
+  "name": "AI Telephone",
+  "description": "Watch an image mutate through 10 generations of AI whispers with real-time latency monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
